@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    display: grid;
+    flex-basis: calc(100% / 5);
+}
